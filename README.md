@@ -1,4 +1,4 @@
-# leet_code_problems
+# leet_code_problem
 
 
 two sum
